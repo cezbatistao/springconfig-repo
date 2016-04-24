@@ -9,4 +9,4 @@ spring:
 
 global:
   variable:
-    see: DONT Change in production environment
+    see: Change in production environment
