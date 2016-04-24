@@ -7,6 +7,6 @@ spring:
   jpa:
     database-platform: org.hibernate.dialect.Oracle10gDialect
 
-other:
-  value:
-    variable: true
+global:
+  variable:
+    see: Change in production environment
